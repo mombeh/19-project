@@ -78,15 +78,26 @@
     text-align: center; */
 }
 
-.btn {
-    background-color: #1c982b;
-}
-
-
 .sign input {
   border-radius: 20px;
   cursor: pointer;
   padding: 5px;
+}
+
+.pen {
+    background-color: white;
+}
+
+.gold {
+    background-color: white;
+}
+
+.see {
+    background-color: white;
+}
+
+.yes {
+    background-color: white;
 }
 
 .sign button {
