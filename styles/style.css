@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ 
+body {
+     background-color: white;
+}
+ 
+#hero-section {
+     padding: 1em;
+     background-color: #f7f5f5;
+}
+ 
+.container {
+     margin: 0 auto;
+     
+     
+}
+ 
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.menu-bar {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+.
+    
