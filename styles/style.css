@@ -79,13 +79,6 @@
   padding: 1.6rem;
 }
 
-/* button {
-    padding: 0.5rem;
-    /* display: block; */
-    border-radius: 5px;
-    text-align: center; */
-}
-
 .sign input {
   border-radius: 20px;
   cursor: pointer;
@@ -151,6 +144,21 @@
   display: grid;
   width: 80%;
   justify-items: center;
+}
+
+.ready {
+    background-color:green;
+    color: white;
+    justify-items: center;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 4px;
+}
+
+.port button {
+    margin-top: 30px;
+    border-radius: 8px;
+    padding: 5px;
 }
 
 .part,
@@ -279,6 +287,8 @@
 
 .button {
   display: flex;
+  border-radius: 9px;
+  padding: 6px;
 }
 
 .favor {
@@ -290,6 +300,12 @@
 .forver {
   text-align: center;
   padding: 1rem;
+}
+
+.forver button {
+    margin-top: 35px;
+    padding: 5px;
+    border-radius: 15px;
 }
 
 .alone {
