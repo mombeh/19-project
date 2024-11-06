@@ -277,6 +277,18 @@
   padding: 1rem;
 }
 
+.alone {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;  
+}
+
+.sport {
+  background-color: white;
+  padding: 19px; 
+  border-radius: 9px; 
+}
+
 .supports {
   text-align: center;
   display: block;
@@ -306,11 +318,6 @@
   border-radius: 13px;
   padding: 0.5rem;
 }
-
-/* .they {
-    height: 8px;
-    text-align: center;
-} */
 
 .certainty {
   text-align: center;
