@@ -76,7 +76,7 @@
 .space-one {
   display: flex;
   text-align: center;
-  padding: 1rem;
+  padding: 1.6rem;
 }
 
 /* button {
@@ -144,6 +144,21 @@
   background-color: #fff;
   margin: 0.5rem;
   padding: 0.5rem;
+  border-radius: 10px;
+}
+
+.music {
+  display: grid;
+  width: 80%;
+  justify-items: center;
+}
+
+.part,
+.minute,
+.parents {
+  margin-bottom: 4px;
+  border-radius: 9px;
+  padding: 1.5px;
 }
 
 .how {
@@ -341,4 +356,9 @@
   color: white;
   padding: 0.3rem;
   background-color: #fb6363;
+  border-radius:6px
+}
+
+.team {
+    font-size: 12px;
 }
